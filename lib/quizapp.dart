@@ -144,7 +144,7 @@ class _QuizappState extends State<Quizapp> {
                                                 TextStyle(color: Colors.green),
                                           )
                                         : Text(
-                                            ' Failed  | $score',
+                                            'Failed  | $score',
                                             style: TextStyle(color: Colors.red),
                                           ),
                                     ElevatedButton(
